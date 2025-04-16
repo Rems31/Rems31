@@ -1,4 +1,5 @@
 👋 Salut !
+
 Je suis développeur web certifié, fraîchement diplômé du bootcamp Le Wagon où j'ai appris à coder en Ruby on Rails, JavaScript, SQL et à manipuler les bases de données.
 
 🚀 Lors de mon projet de fin de formation, j'ai co-développé une application web mobile en équipe et occupé le rôle de chef de projet tout en étant full-stack developer.
