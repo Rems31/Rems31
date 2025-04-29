@@ -1,24 +1,14 @@
-👋 Salut !
+🚀 En transition vers le rôle de Product Manager, j'apporte une double compétence distinctive : une solide expérience en commerce, management et leadership agile, combinée à une compréhension technique approfondie du développement web. Mon parcours est marqué par une constante : l'adaptabilité.
 
-Je suis développeur web certifié, fraîchement diplômé du bootcamp Le Wagon où j'ai appris à coder en Ruby on Rails, JavaScript, SQL et à manipuler les bases de données.
+🔹 J’ai débuté dans la logistique (Unipharma), développant rigueur et gestion des priorités, avant de m'orienter vers la maintenance technique (Oceanic Energy Concept), où j’ai appris à analyser des systèmes complexes et à optimiser leur performance.
 
-🚀 Lors de mon projet de fin de formation, j'ai co-développé une application web mobile en équipe et occupé le rôle de chef de projet tout en étant full-stack developer.
+🍷 Passionné par l'expérience client, j'ai évolué dans le secteur du vin (Le Pavillon des Vins), puis j'ai passé 7 ans comme responsable de magasin chez Crouzil Boissons. Une expérience riche où j'ai piloté l'ensemble des opérations, naviguant constamment entre la stratégie (analyse de données, compréhension client, gestion des stocks, optimisation des processus) et la résolution de problèmes très concrets sur le terrain, ce qui a forgé ma très grande adaptabilité.
 
-🎯 Aujourd'hui, je suis en reconversion vers le métier de Product Manager, avec une forte appétence pour le travail en équipe, la tech et les produits bien pensés.
+🌱 C'est aussi là que j'ai mis en pratique une formation approfondie d'un an en leadership agile (avec Scrum Life), transformant concrètement la dynamique d'équipe par des approches collaboratives (Moving Motivators, Test & Learn) et l'amélioration continue.
 
-📍Basé près de Toulouse, toujours curieux, toujours motivé !
+💻 Certifié Concepteur Développeur d'Applications Web suite à la formation intensive du Wagon, je maîtrise les technologies associées (Ruby on Rails, JS, SQL...) et les outils de prototypage comme Figma. Au-delà de la technique, j'y ai approfondi ma compréhension des enjeux d'accessibilité (WCAG), de respect de la vie privée (RGPD) et d'intégration de l'IA (Chatbots, RAG) dans les produits digitaux. Durant cette période, j'ai notamment mené le projet "Cavinum" (en tant que PM/Dev). Je suis par ailleurs certifié SAFe® Agilist et SAFe® Practitioner.
 
-<!--
-**Rems31/Rems31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aujourd'hui, mon objectif est clair : mettre cette vision 360° (métier, technique, agile) et cette culture de l'adaptabilité au service de la création et de l'optimisation de produits digitaux performants en tant que Product Manager.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Échanger, apprendre et construire ensemble sont au cœur de ma démarche.
+N’hésitez pas à me contacter pour discuter agilité, tech et gestion de produit ! 
