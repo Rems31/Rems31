@@ -1,4 +1,4 @@
-🚀 En transition vers le rôle de Product Manager, j'apporte une double compétence distinctive : une solide expérience en commerce, management et leadership agile, combinée à une compréhension technique approfondie du développement web. Mon parcours est marqué par une constante : l'adaptabilité.
+🚀 En transition vers le rôle de Product Owner, j'apporte une double compétence distinctive : une solide expérience en commerce, management et leadership agile, combinée à une compréhension technique approfondie du développement web. Mon parcours est marqué par une constante : l'adaptabilité.
 
 🔹 J’ai débuté dans la logistique (Unipharma), développant rigueur et gestion des priorités, avant de m'orienter vers la maintenance technique (Oceanic Energy Concept), où j’ai appris à analyser des systèmes complexes et à optimiser leur performance.
 
