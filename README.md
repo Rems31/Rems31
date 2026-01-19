@@ -6,7 +6,7 @@
 
 🌱 C'est aussi là que j'ai mis en pratique une formation approfondie d'un an en leadership agile (avec Scrum Life), transformant concrètement la dynamique d'équipe par des approches collaboratives (Moving Motivators, Test & Learn) et l'amélioration continue.
 
-💻 Certifié Concepteur Développeur d'Applications Web suite à la formation intensive du Wagon, je maîtrise les technologies associées (Ruby on Rails, JS, SQL...) et les outils de prototypage comme Figma. Au-delà de la technique, j'y ai approfondi ma compréhension des enjeux d'accessibilité (WCAG), de respect de la vie privée (RGPD) et d'intégration de l'IA (Chatbots, RAG) dans les produits digitaux. Durant cette période, j'ai notamment mené le projet "Cavinum" (en tant que PM/Dev). Je suis par ailleurs certifié SAFe® Agilist et SAFe® Practitioner.
+💻 Certifié Concepteur Développeur d'Applications Web suite à la formation intensive du Wagon, je maîtrise les technologies associées (Ruby on Rails, JS, SQL...) et les outils de prototypage comme Figma. Au-delà de la technique, j'y ai approfondi ma compréhension des enjeux d'accessibilité (WCAG), de respect de la vie privée (RGPD) et d'intégration de l'IA (Chatbots, RAG) dans les produits digitaux. Durant cette période, j'ai notamment mené le projet "Cavinum" (en tant que PM/Dev). Je suis par ailleurs certifié SAFe® Agilist, SAFe® Practitioner et PSPO 1.
 
 🎯 Aujourd'hui, mon objectif est clair : mettre cette vision 360° (métier, technique, agile) et cette culture de l'adaptabilité au service de la création et de l'optimisation de produits digitaux performants en tant que Product Manager.
 
